@@ -1,4 +1,4 @@
-# uw3-demo-launcher
+# uw3-demo-launcher-dev
 
 This will launch a new container on mybinder.org, quickly build
 the latest development version of `underworld3`, and take you to
