@@ -40,7 +40,7 @@ export CC=`which mpicc`
 
 git clone --single-branch --branch development https://github.com/underworldcode/underworld3.git
 cd underworld3
-pip install .
+./compile.sh
 
 echo
 echo Completed
