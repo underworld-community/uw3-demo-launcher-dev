@@ -10,6 +10,11 @@
 # # conda activate notebook
 # # mamba install --yes -c jgiordani uw3_env
 
+# gmsh installation just seems to be f***d up. This works
+mamba uninstall gmsh --no-prune-deps
+pip install gmsh
+
+
 echo
 echo Install jupyter extensions
 echo
