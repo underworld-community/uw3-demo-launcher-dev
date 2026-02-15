@@ -1,3 +1,7 @@
+> **This repository is superseded.** Please use [underworldcode/uw3-binder-launcher](https://github.com/underworldcode/uw3-binder-launcher) instead, which provides pre-built images for fast launches and supports any public repository via nbgitpuller.
+
+---
+
 # uw3-demo-launcher-dev
 
 This will launch a new container on mybinder.org, quickly build
